@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://lorimayvqc155.github.io/lorimayvqc155_github_io_zp530_13.txt
+Sitemap: https://lorimayvqc155.github.io/lorimayvqc155_github_io_zp530_18.txt
+Sitemap: https://lorimayvqc155.github.io/lorimayvqc155_github_io_zp530_22.txt
+Sitemap: https://lorimayvqc155.github.io/lorimayvqc155_github_io_zp530_4.txt
+Sitemap: https://lorimayvqc155.github.io/lorimayvqc155_github_io_zp530_9.txt
